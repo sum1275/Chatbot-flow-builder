@@ -1,0 +1,17 @@
+.workspace {
+  background-color: silver;
+  position: fixed;
+  top: 40px;
+  left: 0;
+  width: calc(100vw - 200px);
+  height: calc(100vw - 40px);
+}
+
+.selectable.selected {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.react-flow__edge-path {
+  stroke: black;
+}

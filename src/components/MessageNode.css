@@ -1,0 +1,16 @@
+.node-wrapper {
+  border: 1px solid silver;
+  border-radius: 5px;
+  width: 200px;
+  background-color: white;
+  color: black;
+  font-size: smaller;
+}
+
+.header {
+  background-color: paleturquoise;
+  padding-left: 1em;
+}
+.content {
+  padding: 0.5em 1em;
+}
