@@ -6,6 +6,10 @@ A Chatbot flow is built by connecting multiple messages together to decide the o
 
 ![React flow 2](https://github.com/sum1275/Chatbot-flow-builder/assets/59500999/f0c10275-a16a-4071-81b2-55d8c510268d)
 
+
+https://github.com/sum1275/Chatbot-flow-builder/assets/59500999/15651652-e03c-4492-8b4a-c6aff4de90de
+
+
 ## Overview
 
 This project is focused on building a simple Chatbot Flow Builder using React. The goal is to create a tool that allows users to visually construct the flow of a chatbot by connecting messages together, determining the sequence of interactions. The design aims for extensibility, facilitating the easy addition of new features and node types in the future.
